@@ -1,5 +1,4 @@
-Version en français
-Evil Portal
+Portal Evil Portal
 Note importante
 
 Le projet n’a pas encore été entièrement uploadé. Des mises à jour supplémentaires sont à prévoir.
@@ -29,8 +28,8 @@ Licence
 
 [Ajoute une licence, ex. "MIT License" - précise-la dans un fichier LICENSE séparé.]
 
-Version en anglais
-Evil Portal
+
+Portal Evil Portal
 Important Note
 
 The project has not yet been fully uploaded. Additional updates are expected.
